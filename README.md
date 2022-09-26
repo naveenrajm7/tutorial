@@ -651,7 +651,7 @@ Find all projects that have commits mentioning "sql injection"
 
 List of commits is on /da4_data/All.blobs/
 Lets login to da4, create a data folder to store temporary data on the same server
-"/data/play/username", and uce pcommit to project map to get the list of projects.
+"/data/play/username", and use commit to project map to get the list of projects.
 
 ```
 [username@da0]~% ssh da4
