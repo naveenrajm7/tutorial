@@ -320,7 +320,7 @@ For example, find commits by any author named Warner:
 [username@da0]~% zcat /da0_data/basemaps/gz/a2cFullS0.s | grep 'Warner'
 ```
 As described below, the maps are split into 32 parts to enable parallel search.
-FullS means that we are looking ata  complete extract at version S. 
+FullS means that we are looking at a complete extract at version S. 
 
 As versions keep being updated, and data no longer fits on a single server, 
 a more flexible way to run the same command would be
