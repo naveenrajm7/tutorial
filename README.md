@@ -583,7 +583,7 @@ Find all blobs associated with Julia language files (extension .jl)
 Hint 1: What is the name of the map?
 
 ```
-[username@da0] zcat /da?_data/basemaps/gz/f2bFullP*.s | grep '\.jl;'
+[username@da0] zcat /da?_data/basemaps/gz/f2bFullT*.s | grep '\.jl;'
 ```
 
 ## Activity 6: Investigating Technical dependencies
